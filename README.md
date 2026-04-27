@@ -172,10 +172,11 @@ http://localhost:8080/ani-review
 
 Sử dụng ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white) để test các API:
 
-* Login / Logout
-* CRUD dữ liệu
-* Phân trang
-* thêm / sửa / xóa
+* Login / Logout,
+* CRUD dữ liệu,
+* Phân trang,
+* thêm / sửa / xóa,
+* ...
 ---
 
 ## 📚 Mục tiêu học tập
